@@ -1,0 +1,29 @@
+{
+  "format": "rah/build/1",
+  "tool": "riemann-at-home 1.1.0",
+  "archive_sha256": "9631b4f020199e580ba86178cb56c6e9b09f690c2369a80dc4334aa93f49c7fc",
+  "toolchain": "leanprover/lean4:v4.33.1",
+  "mathlib_rev": "0df444a360eaa60ab8c11dca51a86af692955474",
+  "build_folder": "/opt/riemann-at-home/lean",
+  "build_id": "58ab2ff0db69a686",
+  "machine": {
+    "os": "Linux 6.18.64-1-lts",
+    "arch": "x86_64",
+    "cpu": "AMD Ryzen 7 5700G with Radeon Graphics",
+    "cores": 16
+  },
+  "started": "2026-11-22T07:16:04Z",
+  "recorded": "2026-11-24T17:07:43Z",
+  "busy_seconds": 206852,
+  "modules_compiled": 175187,
+  "bitmap_b64": "H4sIAAAAAAAC/+3BMQ0AAAACoNP+ibWHA1oAAAAAAAAAAAAAAAAAAAAAAAAAAIB3GZLmPp+LVQAA",
+  "olean_digest": "1afe77c44cfa6d556d83c5a22999acd2421c60168b273bacea74da6a439f5ee2",
+  "whole_proof": true,
+  "axioms": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "final": true,
+  "display_name": "Ununhexium"
+}
