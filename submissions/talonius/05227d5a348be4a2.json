@@ -1,0 +1,139 @@
+{
+  "format": "rah/build/1",
+  "tool": "riemann-at-home 1.1.0",
+  "archive_sha256": "9631b4f020199e580ba86178cb56c6e9b09f690c2369a80dc4334aa93f49c7fc",
+  "toolchain": "leanprover/lean4:v4.33.1",
+  "mathlib_rev": "0df444a360eaa60ab8c11dca51a86af692955474",
+  "build_folder": "/opt/riemann-at-home/lean",
+  "build_id": "05227d5a348be4a2",
+  "machine": {
+    "os": "Linux 7.3.6-3-cachyos",
+    "arch": "x86_64",
+    "cpu": "AMD Ryzen 9 9950X3D 16-Core Processor",
+    "cores": 32
+  },
+  "started": "2026-11-26T04:20:57Z",
+  "recorded": "2026-11-28T02:34:00Z",
+  "busy_seconds": 67201,
+  "modules_compiled": 175187,
+  "bitmap_b64": "H4sIAAAAAAAC/+3BMQ0AAAACoNP+ibWHA1oAAAAAAAAAAAAAAAAAAAAAAAAAAIB3GZLmPp+LVQAA",
+  "olean_digest": "4f78fe7fc804ee81a2a9a131b531b2d03eb485ccd6bd7000c64a0e46aff4d358",
+  "whole_proof": true,
+  "axioms": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "final": true,
+  "export_progress": {
+    "bytes": 61570595788,
+    "seconds": 7628,
+    "left_seconds": null,
+    "peak_memory_gb": 110.86,
+    "done": true
+  },
+  "export_sha256": "5ea74b912147c5c93cc2b6d70cc727cf908df2f62ac6a20480a3fa02f6be244e",
+  "export_bytes": 61570595788,
+  "crashes": [
+    {
+      "module": "Development.AutomorphicArithmetic.AutomorphicVarieties.ModularityArgument.InductionEstimates.IwahoriBlocks.IwahoriCentralBorel.IndTens",
+      "code": 1,
+      "at": "2026-11-27T11:04:49Z"
+    },
+    {
+      "module": "Development.AutomorphicArithmetic.AutomorphicVarieties.ModularityArgument.InductionEstimates.IwahoriBlocks.IwahoriCentralBorel.IndSeed",
+      "code": 1,
+      "at": "2026-11-27T11:04:49Z"
+    },
+    {
+      "module": "Development.AutomorphicArithmetic.AutomorphicVarieties.ModularityArgument.InductionEstimates.IwahoriBlocks.IwahoriCentralBorel.SchurSm",
+      "code": 1,
+      "at": "2026-11-27T11:04:49Z"
+    },
+    {
+      "module": "Development.AutomorphicArithmetic.AutomorphicVarieties.ModularityArgument.InductionEstimates.SplitUnramifiedInduction.PolMix",
+      "code": 1,
+      "at": "2026-11-27T11:04:49Z"
+    },
+    {
+      "module": "Development.AbelianVarietyTheory.Proofs.FoundationProofs.GaloisCocycleIntegralAfterScaling",
+      "code": 1,
+      "at": "2026-11-27T11:04:49Z"
+    },
+    {
+      "module": "Development.AbelianVarietyTheory.Proofs.FoundationProofs.NotCongruentZeroIntCastMulPrimePowStatement",
+      "code": 1,
+      "at": "2026-11-27T11:04:49Z"
+    },
+    {
+      "module": "Development.AbelianVarietyTheory.Proofs.FoundationProofs.LocalCochainsGlueGlobal",
+      "code": 1,
+      "at": "2026-11-27T11:04:49Z"
+    },
+    {
+      "module": "Development.AbelianVarietyTheory.Proofs.FoundationProofs.CupProductDualTwistIsTwoCocycleUnramified",
+      "code": 1,
+      "at": "2026-11-27T11:04:49Z"
+    },
+    {
+      "module": "Development.AbelianVarietyTheory.Proofs.FoundationProofs.CupProductCoboundaryMod",
+      "code": 1,
+      "at": "2026-11-27T11:04:49Z"
+    },
+    {
+      "module": "Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.NormLeOneOfMemCoef",
+      "code": 1,
+      "at": "2026-11-27T11:04:49Z"
+    },
+    {
+      "module": "Development.AutomorphicArithmetic.AutomorphicVarieties.ModularityArgument.InductionEstimates.UnipotentBlockMatrices.ClosedKernelMinors.ContLv",
+      "code": 1,
+      "at": "2026-11-27T11:04:49Z"
+    },
+    {
+      "module": "Development.AbelianVarietyTheory.Proofs.FoundationProofs.ResPlaneSmulEqZero",
+      "code": 1,
+      "at": "2026-11-27T11:04:49Z"
+    },
+    {
+      "module": "Development.AbelianVarietyTheory.Proofs.FoundationProofs.ExistsDivisibleChainPrimaryTorsionGroup",
+      "code": 1,
+      "at": "2026-11-27T11:04:49Z"
+    },
+    {
+      "module": "Development.AbelianVarietyTheory.Proofs.FoundationProofs.HeightCommutatorInvariance",
+      "code": 127,
+      "at": "2026-11-27T11:04:49Z"
+    },
+    {
+      "module": "Development.AbelianVarietyTheory.Proofs.GlobalInterpolation.CoboundaryOfDualCoboundaries",
+      "code": 1,
+      "at": "2026-11-27T11:04:49Z"
+    },
+    {
+      "module": "Development.AutomorphicArithmetic.AutomorphicVarieties.ModularityArgument.InductionEstimates.IntegralCompression.ContinuousEntryCharacters.CoefEx",
+      "code": 1,
+      "at": "2026-11-27T11:04:49Z"
+    },
+    {
+      "module": "Development.AutomorphicArithmetic.AutomorphicVarieties.ModularityArgument.InductionEstimates.IntegralCompression.ContinuousEntryCharacters.MinSwap",
+      "code": 1,
+      "at": "2026-11-27T11:04:49Z"
+    },
+    {
+      "module": "Development.AbelianVarietyTheory.Proofs.FoundationProofs.ExistsPrimePowMulDeepCongruenceLevel",
+      "code": 1,
+      "at": "2026-11-27T11:04:49Z"
+    },
+    {
+      "module": "Development.AbelianVarietyTheory.Proofs.FoundationProofs.LipschitzPadicHomOfContractionPerLevel",
+      "code": 1,
+      "at": "2026-11-27T11:04:49Z"
+    },
+    {
+      "module": "Development.AutomorphicArithmetic.AutomorphicVarieties.ModularityArgument.InductionEstimates.IntegralCompression.ContinuousEntryCharacters.CoLaws",
+      "code": 1,
+      "at": "2026-11-27T11:04:49Z"
+    }
+  ]
+}
