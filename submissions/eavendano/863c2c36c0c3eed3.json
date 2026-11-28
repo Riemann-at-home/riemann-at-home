@@ -1,0 +1,26 @@
+{
+  "format": "rah/build/1",
+  "tool": "riemann-at-home 1.1.0",
+  "proof": "300k",
+  "source_commit": "72fead102f663d5c7a407964a13dc0cf9d977207",
+  "toolchain": "leanprover/lean4:v4.35.0",
+  "mathlib_rev": "56a005855ea17e0b0958f73ec801ae140b0a1679",
+  "build_folder": "/opt/riemann-at-home/grh",
+  "build_id": "863c2c36c0c3eed3",
+  "machine": {
+    "os": "Linux 5.15.167.4-microsoft-standard-WSL2",
+    "arch": "x86_64",
+    "cpu": "AMD Ryzen 9 5950X 16-Core Processor",
+    "cores": 32
+  },
+  "started": "2026-11-28T03:59:04Z",
+  "recorded": "2026-11-28T04:09:06Z",
+  "busy_seconds": 602,
+  "modules_compiled": 245,
+  "bitmap_b64": "H4sIAAAAAAACA9NvsG0wefH9v+/7nUwNP/79Z2OWSXjC+JL7dpyaAUPDn7f/b+/7/7/8YxenMENqw3Yegww2JgYGBw4uZiZ/BoYIl0YOBhBgZWBgATMYnB4wMCQwOAGFHYC8A/9BJAsA5rmhrWUAAAA=",
+  "olean_digest": "64b36a10da16e75e5f5e8e639efc19629942e9e276ba981bc25a284b1aa14b65",
+  "whole_proof": false,
+  "axioms": null,
+  "final": false,
+  "display_name": "Emanuel Avendano G - CR"
+}
