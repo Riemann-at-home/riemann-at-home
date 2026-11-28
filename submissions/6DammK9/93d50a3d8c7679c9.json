@@ -1,0 +1,116 @@
+{
+  "format": "rah/build/1",
+  "tool": "riemann-at-home 1.2.0",
+  "proof": "300k",
+  "source_commit": "72fead102f663d5c7a407964a13dc0cf9d977207",
+  "toolchain": "leanprover/lean4:v4.35.0",
+  "mathlib_rev": "56a005855ea17e0b0958f73ec801ae140b0a1679",
+  "build_folder": "/opt/riemann-at-home/grh",
+  "build_id": "93d50a3d8c7679c9",
+  "machine": {
+    "os": "Linux 6.18.64.1-microsoft-standard-WSL2+",
+    "arch": "x86_64",
+    "cpu": "Intel(R) Xeon(R) Platinum 8375C CPU @ 2.90GHz",
+    "cores": 128
+  },
+  "started": "2026-11-28T06:23:50Z",
+  "recorded": "2026-11-28T07:30:01Z",
+  "busy_seconds": 1538,
+  "modules_compiled": 803,
+  "bitmap_b64": "H4sIAAAAAAAC//v/n/aAHQAeG9rWZQAAAA==",
+  "olean_digest": "6935dd835fdef47a743637b3d8a639d2d63211d5db85c89e9bb457b1d989f1fc",
+  "whole_proof": true,
+  "axioms": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "final": false,
+  "sign_statement": true,
+  "export_sha256": "baf221c81749bf4bcbd6cd56238adfb4e8e780c38ef92d6a7ab458d57df36fc1",
+  "export_bytes": 4485867644,
+  "export_exporter": "lean4export v4.35.0",
+  "export_fast_exit": true,
+  "crashes": [
+    {
+      "module": "unknown",
+      "code": 1,
+      "at": "2026-11-28T06:23:51Z"
+    },
+    {
+      "module": "unknown",
+      "code": 1,
+      "at": "2026-11-28T06:24:21Z"
+    },
+    {
+      "module": "unknown",
+      "code": 1,
+      "at": "2026-11-28T06:24:51Z"
+    },
+    {
+      "module": "unknown",
+      "code": 1,
+      "at": "2026-11-28T06:25:21Z"
+    },
+    {
+      "module": "unknown",
+      "code": 1,
+      "at": "2026-11-28T06:28:00Z"
+    },
+    {
+      "module": "unknown",
+      "code": 1,
+      "at": "2026-11-28T06:28:30Z"
+    },
+    {
+      "module": "unknown",
+      "code": 1,
+      "at": "2026-11-28T06:29:00Z"
+    },
+    {
+      "module": "unknown",
+      "code": 1,
+      "at": "2026-11-28T06:29:30Z"
+    },
+    {
+      "module": "unknown",
+      "code": 1,
+      "at": "2026-11-28T06:56:49Z"
+    },
+    {
+      "module": "unknown",
+      "code": 1,
+      "at": "2026-11-28T06:57:30Z"
+    },
+    {
+      "module": "unknown",
+      "code": 1,
+      "at": "2026-11-28T06:58:08Z"
+    },
+    {
+      "module": "unknown",
+      "code": 1,
+      "at": "2026-11-28T06:58:46Z"
+    },
+    {
+      "module": "unknown",
+      "code": 1,
+      "at": "2026-11-28T07:02:30Z"
+    },
+    {
+      "module": "unknown",
+      "code": 1,
+      "at": "2026-11-28T07:03:08Z"
+    },
+    {
+      "module": "unknown",
+      "code": 1,
+      "at": "2026-11-28T07:03:45Z"
+    },
+    {
+      "module": "unknown",
+      "code": 1,
+      "at": "2026-11-28T07:04:21Z"
+    }
+  ]
+}
