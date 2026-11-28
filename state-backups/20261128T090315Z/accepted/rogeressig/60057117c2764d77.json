@@ -1,0 +1,25 @@
+{
+  "format": "rah/build/1",
+  "tool": "riemann-at-home 1.2.0",
+  "archive_sha256": "9631b4f020199e580ba86178cb56c6e9b09f690c2369a80dc4334aa93f49c7fc",
+  "toolchain": "leanprover/lean4:v4.33.1",
+  "mathlib_rev": "0df444a360eaa60ab8c11dca51a86af692955474",
+  "build_folder": "/Users/Shared/riemann-at-home/lean",
+  "build_id": "60057117c2764d77",
+  "machine": {
+    "os": "Darwin 25.5.0",
+    "arch": "arm64",
+    "cpu": "Apple M4 Pro",
+    "cores": 12
+  },
+  "started": "2026-11-28T08:36:06Z",
+  "recorded": "2026-11-28T08:56:20Z",
+  "busy_seconds": 1214,
+  "modules_compiled": 1575,
+  "bitmap_b64": "H4sIAAAAAAAC/+2cv2sUQRTH3/4wt4HkbgU5TlM4iYJ2xsKQQnKjpJIUZ2FjYyCFjUgQJI2aSQwSrFIoWkg4/woRi6zaCYJWFtF4gqBFRC0Sg/kx7q+73b27vR/JBRLv+ynudmdmZ2ffe/veztthiUBtlGBTbWnHJvGge+b9OSUknFOZRMO5YnEL4QP2icvojGvM7AEppCrnOq9Om3rNfg3vT7i/eiMj0Uvi1GFlAAAAAAAAAAAAAAAAAAAAAID/BaHE1RRfjbLSbn9ZTQAPNs3Kl7yVHKnboqPlVzqj2SPTVagcgP2GAhEAAAAAAAAA2gGjfpNa69gZJAhAm2GRaW43a4IsKdg7ONYYjm9mA3FNuIew8lZKbMR8n+yJjZwGdLBvOH4AMgAAAAAAAKB9Zou0JqWcLM4DecLMrGfd7Vs06Jfyt/LKhKLQ3WnnSyhCHiWyUl57+1hpNnO+04ySzoFjappIC9fMbdh9bUkfjf4440q1mTqsTSk35KczBi+Ei8ddLS04gnnxk0RvMEP35uV5KevmoPhqccre82iI5jinjjfEM1NEXU7hCKWNIBtAh6lwwp7+f9Qo2Wc9jZnpx5Kuf6UdXV5+QdhG0M90ztwUQzR3YIhI2sG+RMOoyGtQTMai1MlvjQpkTQXJjkgjy9tLdzsiGitcVE4SvZ59crvfJPH43QUj9+Dl6I0EJZawpipsAPxrdXmIWq9WVHb/uWW7D2to2tdjvk+/d3PlQ8r/HFFJZ67BkruudTxUFKhdF0XdVVuSqzMRNQbBG/NSGzK7bZk0sgb3zg7lvtYih7jlOPEyEi21kN3KApbsazgkFT9oPNMWNz9P2A5UE7JEyhsJr26RqhkZbiZkvlZK94xLdWttizJ50U6FctZKGvksrf64oy3n5r/JbmUy0vOwOKg3uCq7EOddWf3F4Q19kYtHbhEx4187F1X8YR0lKqonkbqj+r5sO3az1w8or2avLT5cumTQgG3ABUct2cZuR6k1ayDimL/xawf3MgCgbRhlhuMkWceK5oYKwXch8DXjyebDO121Wg42/1FGcf5Ujri4zkemJtXLTJh5JeM6dUt153RfFv6u217+UPWna14RrAy3yo6SgkUFIUoBcMsbJY/GrVzNB/c9iqB/NiLQJItVAAA=",
+  "olean_digest": "db9e00966d8e78e748f307b7a6bfc112c03adc37ec218a7e22ffb06bfb594c83",
+  "whole_proof": false,
+  "axioms": null,
+  "final": false,
+  "display_name": "rogeressig"
+}

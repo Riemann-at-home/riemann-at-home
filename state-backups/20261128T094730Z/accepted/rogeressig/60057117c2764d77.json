@@ -1,0 +1,25 @@
+{
+  "format": "rah/build/1",
+  "tool": "riemann-at-home 1.2.0",
+  "archive_sha256": "9631b4f020199e580ba86178cb56c6e9b09f690c2369a80dc4334aa93f49c7fc",
+  "toolchain": "leanprover/lean4:v4.33.1",
+  "mathlib_rev": "0df444a360eaa60ab8c11dca51a86af692955474",
+  "build_folder": "/Users/Shared/riemann-at-home/lean",
+  "build_id": "60057117c2764d77",
+  "machine": {
+    "os": "Darwin 25.5.0",
+    "arch": "arm64",
+    "cpu": "Apple M4 Pro",
+    "cores": 12
+  },
+  "started": "2026-11-28T08:36:06Z",
+  "recorded": "2026-11-28T09:47:04Z",
+  "busy_seconds": 4258,
+  "modules_compiled": 5502,
+  "bitmap_b64": "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",
+  "olean_digest": "50532865b6236be635807ef06c37b79b67929f9d4ac1fa7bd30af54cfbfc7e58",
+  "whole_proof": false,
+  "axioms": null,
+  "final": false,
+  "display_name": "rogeressig"
+}

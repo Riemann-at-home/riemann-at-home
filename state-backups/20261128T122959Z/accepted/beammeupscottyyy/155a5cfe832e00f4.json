@@ -1,0 +1,24 @@
+{
+  "format": "rah/build/1",
+  "tool": "riemann-at-home 1.2.0",
+  "archive_sha256": "9631b4f020199e580ba86178cb56c6e9b09f690c2369a80dc4334aa93f49c7fc",
+  "toolchain": "leanprover/lean4:v4.33.1",
+  "mathlib_rev": "0df444a360eaa60ab8c11dca51a86af692955474",
+  "build_folder": "/Users/Shared/riemann-at-home/lean",
+  "build_id": "155a5cfe832e00f4",
+  "machine": {
+    "os": "Darwin 23.1.0",
+    "arch": "arm64",
+    "cpu": "Apple M3 Pro",
+    "cores": 12
+  },
+  "started": "2026-11-28T11:56:37Z",
+  "recorded": "2026-11-28T12:26:56Z",
+  "busy_seconds": 1819,
+  "modules_compiled": 420,
+  "bitmap_b64": "H4sIAAAAAAAC/+3Xv2rCQBzA8Z+JUMVi4yJiB4Uubm46JvQJ+gg+gNCxtEN7o08hDn2PBnyCzh1069rNP1h/RmNAhdbGElD8fuAgP/hdLrm73OVEAAAAAAAAAAAAAAAAAAAAAAAAAAAxpS36AEczG9clDrOqUv17hff8NT0NAAAAAKd2WpT5S3QO9C6k1K//lGyFZ0VbxM+G+YPu9PnAlos7sdOZ6NvT3J2p//k4Emm2b5273JkNhz9RnWlBdg7jLRmraqUsaV8yTFoAiERLopGP78FDsIDaYewFpff7emk5W2HpH09RO9XuSyWS+7qZ7plgdJa/D40rkWGwl927Sb2NuVlffKnLpwFgr2q4WVg9O7k24ty6uxlcMj5HxMgCq7OhTotVAAA=",
+  "olean_digest": "825050e8b8943dad9fb5b6404b938593f8c838c089000df2967a029408ec5472",
+  "whole_proof": false,
+  "axioms": null,
+  "final": false
+}

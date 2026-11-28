@@ -1,0 +1,40 @@
+{
+  "format": "rah/build/1",
+  "tool": "riemann-at-home 1.1.0",
+  "proof": "300k",
+  "source_commit": "72fead102f663d5c7a407964a13dc0cf9d977207",
+  "toolchain": "leanprover/lean4:v4.35.0",
+  "mathlib_rev": "56a005855ea17e0b0958f73ec801ae140b0a1679",
+  "build_folder": "/opt/riemann-at-home/grh",
+  "build_id": "863c2c36c0c3eed3",
+  "machine": {
+    "os": "Linux 5.15.167.4-microsoft-standard-WSL2",
+    "arch": "x86_64",
+    "cpu": "AMD Ryzen 9 5950X 16-Core Processor",
+    "cores": 32
+  },
+  "started": "2026-11-28T03:59:04Z",
+  "recorded": "2026-11-28T05:11:11Z",
+  "busy_seconds": 4089,
+  "modules_compiled": 803,
+  "bitmap_b64": "H4sIAAAAAAACA/v/n/aAHQAeG9rWZQAAAA==",
+  "olean_digest": "bd16fa8eb50e7b53da8bd074f6d63b9db134fc9874a884084d9f708e9c926183",
+  "whole_proof": true,
+  "axioms": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "final": false,
+  "display_name": "Emanuel Avendano G - CR",
+  "sign_statement": true,
+  "export_sha256": "baf221c81749bf4bcbd6cd56238adfb4e8e780c38ef92d6a7ab458d57df36fc1",
+  "export_bytes": 4485867644,
+  "crashes": [
+    {
+      "module": "Lib.Shimura.ThetaModuli.FamilyFromPoints",
+      "code": 137,
+      "at": "2026-11-28T05:02:09Z"
+    }
+  ]
+}
